@@ -121,7 +121,7 @@
 		margin: 20px;
 		width: 27px;
 		height: 27px;
-		background: url('/img/expand-menu.png') 0 0 no-repeat;
+		background: url('../img/expand-menu.png') 0 0 no-repeat;
 	}
 	
 	@media all and (-webkit-min-device-pixel-ratio: 1.5) {
